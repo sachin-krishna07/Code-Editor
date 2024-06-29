@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sachin-krishna07/Code-Editor.git/static/css/main.0d60d06c.css",
+    "main.js": "/sachin-krishna07/Code-Editor.git/static/js/main.a12830e3.js",
+    "index.html": "/sachin-krishna07/Code-Editor.git/index.html",
+    "main.0d60d06c.css.map": "/sachin-krishna07/Code-Editor.git/static/css/main.0d60d06c.css.map",
+    "main.a12830e3.js.map": "/sachin-krishna07/Code-Editor.git/static/js/main.a12830e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d60d06c.css",
+    "static/js/main.a12830e3.js"
+  ]
+}
